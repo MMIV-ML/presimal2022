@@ -9,7 +9,7 @@ _04.09.22, [Alexander Selvikvåg Lundervold](https://alexander.lundervold.com/)_
 The lecture and the accompanying workshop take you on a short guided tour of deep learning in the context of medical imaging, showcasing AI-driven biomarker analysis.
 
 
-<img height=10% src="assets/under-construction.png">
+<img height=15% src="assets/under-construction.png">
 
 ## Slides
 
