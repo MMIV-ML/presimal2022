@@ -9,7 +9,7 @@ _04.09.22, [Alexander Selvikvåg Lundervold](https://alexander.lundervold.com/)_
 The lecture and the accompanying workshop take you on a short guided tour of deep learning in the context of medical imaging, showcasing AI-driven biomarker analysis.
 
 
-<img src="assets/under-construction.png" style="max-height:15%">
+![](assets/under-construction.png)
 
 ## Slides
 
@@ -19,7 +19,7 @@ Here you'll find PDF versions of the lecture slides.
 
 Slides from the presentation _Medical AI: Development, Application, and Evaluation of Machine Learning in Medicine_.
 
-***TBA***
+***Link to slides TBA***
 
 
 <a href="">![](assets/PRESIMAL2022-1509-Lundervold-MedicalAI.png)</a>
@@ -28,7 +28,7 @@ Slides from the presentation _Medical AI: Development, Application, and Evaluati
 
 The workshop builds upon the earlier presentation and provide (i) an introduction to deep learning (connected to notebook `1.0-asl-segmentation-brain_tumor_segmentation.ipynb` linked below), (ii) hands-on example of AI-driven biomarker analysis, and (iii) a quick look at our [fastMONAI](https://fastmonai.no) deep learning library. 
 
-***TBA***
+***Link to slides TBA***
 
 <a href="">![](assets/PRESIMAL2022-1509-Lundervold-MedicalAI-workshop.png)</a>
 
