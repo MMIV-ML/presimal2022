@@ -24,3 +24,6 @@ venv.bak/
 
 # MacOS
 .DS_Store
+
+# Data
+data
