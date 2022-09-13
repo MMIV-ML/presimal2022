@@ -4,12 +4,12 @@
 
 > Part of the PRESIMAL Autumn Research School on _[Artificial Intelligence in Medical Imaging](https://mmiv.no/3937-2/)_, Sept 14&ndash;16, 2022. 
 
-_12.09.22, [Alexander Selvikvåg Lundervold](https://alexander.lundervold.com/)_
+_13.09.22, [Alexander Selvikvåg Lundervold](https://alexander.lundervold.com/)_
 
 The lecture and the accompanying workshop take you on a short guided tour of deep learning in the context of medical imaging, showcasing AI-driven biomarker analysis.
 
 
-![](assets/under-construction.png)
+<!--![](assets/under-construction.png)-->
 
 ## Slides
 
