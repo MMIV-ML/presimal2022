@@ -19,18 +19,14 @@ Here you'll find PDF versions of the lecture slides.
 
 Slides from the presentation _Medical AI: Development, Application, and Evaluation of Machine Learning in Medicine_.
 
-***Link to slides TBA***
-
-
-<a href="">![](assets/PRESIMAL2022-1509-Lundervold-MedicalAI.png)</a>
+<a href="slides/PRESIMAL2022-1509-Lundervold-MedicalAI.pdf">![](assets/PRESIMAL2022-1509-Lundervold-MedicalAI.png)</a>
 
 ### Slides from the workshop
 
 The workshop builds upon the earlier presentation and provide (i) an introduction to deep learning (connected to notebook `2.0-asl-deep_learning_brain_tumor_segmentation.ipynb` linked below), (ii) hands-on example of AI-driven biomarker analysis (notebook `1.0-asl-brain_tumor_analysis_radiomics.ipynb`), and (iii) a quick look at our [fastMONAI](https://fastmonai.no) deep learning library. 
 
-***Link to slides TBA***
 
-<a href="">![](assets/PRESIMAL2022-1509-Lundervold-MedicalAI-workshop.png)</a>
+<a href="slides/PRESIMAL2022-1509-Lundervold-MedicalAI-workshop.pdf">![](assets/PRESIMAL2022-1509-Lundervold-MedicalAI-workshop.png)</a>
 
 
 ## Notebooks
